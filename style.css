@@ -1,0 +1,284 @@
+*{
+    background-color: #F5E8C7;
+    font-family: "Helvetica Neue", sans-serif;
+    color:black
+
+}
+.menu {
+  display:flex;
+  align-items:flex-start;
+  justify-content: left;
+}
+.avatar {
+    position: relative;
+    height: 96px;
+    width: 96px;
+  }
+  .avatar__conteudo {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 58px;
+    color: black;
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+.items {
+  display: flex;
+  list-style: none;
+  width: 900px;
+  justify-content: space-between;
+}
+  .inicio {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+    background-color: #6F4C5B;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+      
+  }
+  .titulo1 {
+    background-color: aqua;
+  }
+.logo {
+  border-radius: 50%;
+}
+main {
+  background-color: white;
+}
+#quemsou {
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+  
+}
+.paragrafo1 {
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #6F4C5B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 10%;
+  height:90%;
+  width: 90%;
+  line-height: 2;
+  margin-left: 35px;
+
+}
+
+
+#epossivelreinventarse {
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+.paragrafo2 {
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #6F4C5B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 10%;
+  height:90%;
+  width: 90%;
+  line-height: 2;
+  margin-left: 35px;
+}
+
+#minhajornada{
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+  
+}
+.imagencomlista {
+  display:flex;
+  align-items:flex-start;
+  justify-content: last baseline;
+}
+.logo2 {
+  height: 200px;
+  width: 80;
+  border-radius: 20px;
+}
+.titulo5 {
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+.formasdesereinventar{
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+
+}
+.caixa {
+  height: 300px;
+  width: 190px;
+  background-color: #997f7f;
+  border-radius: 20px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  
+}
+.caixa img {
+  height: 120px;
+  width: 180px;
+  background-color: #00FFFF;
+  border-radius: 20px;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
+.textocaixa {
+  color: rgb(12, 1, 1);
+  background-color:#D1E8E4;
+}
+.titulo6 {
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+
+.pergunta {
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+.convite {
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151;
+}
+
+.video {
+  width: 400;
+  height: 248;
+  margin: 50px 50px 30px 150px;
+  border-radius: 30px;
+}
+
+
+.titulo7 {
+  height: 120px;
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #835151
+}
+.textofinalconimg {
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  width: 700px;
+  margin-left: 250px;
+  padding: 50px;
+  background-color: #997f7f;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+#meuscontatos {
+  background-color: #F5E8C7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #574e4e
+}
+.contatositems {
+  background-color: #F5E8C7;
+  color:black;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  display: flex;
+}
+.titulofinal {
+  background-color: #C89595;
+  color: #575757;;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  display: flex;
+  
+}
+.titulofinal2 {
+  background-color: #F5E8C7;
+  color: #575757;;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  display: flex;
+}
+.formulario {
+  background-color: #F5E8C7;
+  color: #575757;;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  display: flex;
+}
+.finished {
+  background-color: #C89595;
+  color: #575757;;
+  align-items: center;
+  justify-content: center;
+  height: 20px;
+  display: flex;
+
+}
+footer {
+  background-color: #574e4e;
+  height: 300px;
+  align-items: center;
+      
+  }
+  
